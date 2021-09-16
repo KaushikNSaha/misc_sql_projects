@@ -1,3 +1,7 @@
+-- Exploration of Covid Data from https://ourworldindata.org/
+-- The data set is used to explore covid situation in India and Bangladesh. The queries pull out vaccination and death toll in Bangladesh and India till 18th August, 2021.
+-- The visualization created from this dataset can be found at https://public.tableau.com/app/profile/kaushik.nandan.saha/viz/covid_india_16297205023340/Dashboard
+
 
 select *
 from Portfolio_Project..covid_deaths
